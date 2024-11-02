@@ -6,6 +6,7 @@ import MovieGrid from './MovieGrid';
 function App() {
   return (
     <>
+    <h1>Hello</h1>
       <h2>Assignment-1</h2>
       <div>
         <Goal />
